@@ -2,3 +2,11 @@
 .img-2{top: 400px; position: absolute; left: 70%}
 .img-3{top: 600px; position: absolute; left: 40%}
 .image{width: 400px}
+.button-1{position: relative; left: 20px; top: 10px;}
+.button-2{position: relative; left: 10px; top: 40px;}
+.button-1:hover{}
+.button-2:hover{}
+.btm-1{background-color: #deb887; border: 1px solid #000;}
+.btm-2{background-color: #ff69b4; border: 1px solid #000;}
+.btm-1:hover{background-color: #ccc; border: 3px solid #000}
+.btm-2:hover{background-color: #ccc; border: 3px solid #000}
